@@ -1,0 +1,4 @@
+setwd("/media/storage/Documents/studies/master/vu - systeembio master/modules/05 Data Mining Techniques/assignments/assignment_1_basic")
+plot(cars)
+setwd("/media/storage/Documents/studies/master/vu - systeembio master/modules/05 Data Mining Techniques/assignments/assignment_1_basic")
+plot(cars)
